@@ -5,7 +5,7 @@ TypeScript · Python으로 업무 자동화와 사내 시스템(CRM, 메시징 �
 
 #### 📦 Open Source
 
-**[korean-pii-redact](https://github.com/Project-kk1/korean-pii-redact)** — 한국 개인정보(주민등록번호·사업자등록번호·전화번호·카드번호·이메일)를
+**[korean-pii-redact](https://github.com/hoehyeonlab/korean-pii-redact)** — 한국 개인정보(주민등록번호·사업자등록번호·전화번호·카드번호·이메일)를
 LLM·로그·서드파티로 보내기 전에 비식별화하는 의존성 없는 TypeScript 라이브러리. (Security Maintainer)
 
 ```ts
